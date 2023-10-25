@@ -72,7 +72,6 @@ body{
     grid-template-columns: repeat(4, 1fr);
     grid-row-gap: 10px;
     grid-column-gap: 10px;
-    align-items: left;
     justify-items: left;
     padding: 20px;
     background: aliceblue;
@@ -120,7 +119,6 @@ body{
 .cookie-more{
     grid-row: 4;
     grid-column: 1 / span 4;
-    align-items: left;
     justify-items: left;
     position: relative;
     bottom: 20px;
@@ -168,7 +166,6 @@ body{
 .pancake-more{
     grid-row: 9;
     grid-column: 1 / span 4;
-    align-items: left;
     justify-items: left;
     position: relative;
     bottom: 20px;
@@ -182,7 +179,6 @@ body{
     grid-template-columns: repeat(4, 1fr);
     grid-row-gap: 10px;
     grid-column-gap: 10px;
-    align-items: left;
     justify-items: left;
     padding: 20px;
     background: aliceblue;
@@ -434,7 +430,6 @@ body{
     grid-template-columns: repeat(4, 1fr);
     grid-row-gap: 10px;
     grid-column-gap: 10px;
-    align-items: left;
     justify-items: left;
     padding: 20px;
     background: aliceblue;
